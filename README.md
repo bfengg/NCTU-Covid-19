@@ -1,7 +1,7 @@
 # NCTU-Covid-19
 2020 Covid-19 Research with NCTU
 
-**R Code Used For Research Paper:  **
+**R Code Used For Research Paper:**  
 File Name: Final Research Code.R
 
 **Data Used for Research Paper:**  
@@ -22,7 +22,7 @@ Link to website: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-C
 File Name(s):PctUrbanRural_County.csv and PctUrbanRural_State.csv  
 link: https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural/2010-urban-rural.html
 
-**Exploratary datasets (Not used in research paper):  **
+**Exploratary datasets (Not used in research paper):**  
 File Name(s): age_distribution_data.csv, US_states_religion_and_politics.csv  
 *Data from above are only used for exploratory purposes and are not invovled in the research paper.   
 The data above are pieced together from resources such as link: https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-detail.html   
